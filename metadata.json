@@ -1,0 +1,5 @@
+{
+  "name": "ZenGen - AI Meditation",
+  "description": "A personalized guided meditation generator using Gemini for scripts, Imagen for visuals, and Gemini TTS for voice guidance.",
+  "requestFramePermissions": []
+}
